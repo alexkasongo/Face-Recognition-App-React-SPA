@@ -4,20 +4,20 @@ Smart Brain is a web app that uses the Clarifai API to locate a face in a pictur
 
 ![Image of Yaktocat](https://i.imgur.com/5kfvTeG.png)
 
-* Front-End
+### Front-End
 - HTML5
 - CSS3
 - React.js
 - Redux
 
-* Back-End
+### Back-End
 - Postgrsql
 - Express
 - Nodejs
 - Heroku
 - Nodemon
 
-* NPM Packages 
+### NPM Packages 
 - Create-React-App
 - Tachyons
 - react-tilt
@@ -29,6 +29,6 @@ Smart Brain is a web app that uses the Clarifai API to locate a face in a pictur
 - cors
 - express
 
-* APIs
+### APIs
 - [Clarifai](https://www.clarifai.com/)
 - [Smart Brain API](https://github.com/alexkasongo/SmartBrain-API-master)
