@@ -1,0 +1,14 @@
+.form {
+	width: 600px;
+/*	background-color: #555555;*/
+}
+
+.instructions {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.buttoncolor {
+	background-color: #333333;
+}
